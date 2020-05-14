@@ -1,5 +1,5 @@
 # ak
-<!DOCTYPE html>
+
 <html>
 
 <head>
